@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Compile CordAn</string>
+    <string name="lbl_btn_learn">Learn</string>
+    <string name="lbl_title_compile_cordan">Compile CordAn</string>
+    <!-- <string name="lbl_text_description">Construa uma aplicação hídrida multiplaforma de forma simples!</string>-->
+    <string name="lbl_text_description">Create an hybrid application of simple form!</string>
+    <string name="lbl_btn_start">Start</string>
+    <string name="lbl_text_html">HTML</string>
+    <string name="lbl_text_css">CSS</string>
+    <string name="lbl_text_bootstrap">BOOTSTRAP</string>
+</resources>
